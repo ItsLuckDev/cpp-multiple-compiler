@@ -1,4 +1,4 @@
-Sure! Here is a README file in both English and Italian versions.
+This README file as both English and Italian versions.
 
 ---
 
